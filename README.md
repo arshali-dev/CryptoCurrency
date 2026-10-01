@@ -9,6 +9,8 @@
 ![React Router](https://img.shields.io/badge/React_Router-v6-CA4245?logo=reactrouter&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
 
+[Live Demo](#) · [Report Bug](../../issues) · [Request Feature](../../issues)
+
 
 [Live Demo](#) · 
 https://crypto-currency-mu.vercel.app/
