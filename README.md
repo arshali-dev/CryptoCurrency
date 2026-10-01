@@ -221,11 +221,11 @@ Please follow [Conventional Commits](https://www.conventionalcommits.org/) for c
 ## 👨‍💻 Author
 
 **Arsh Ali**
-B.Tech CSE (Computer Science Engineering & Management), K.K. College of Engineering and Management
+B.Tech CSE, Jharkhand University of Technology
 
-[![GitHub](https://img.shields.io/badge/GitHub-amankrsahu700-181717?logo=github)](https://github.com/arshali-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aman--kumar-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arsh-ali-b18039256/)
-
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/arshali-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arsh-ali-b18039256/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arshali737100@gmail.com)
 ---
 
 <div align="center">
