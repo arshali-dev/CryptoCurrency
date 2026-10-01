@@ -56,15 +56,13 @@ The project demonstrates core front-end engineering concepts: component-based ar
 
 ## 🖼 Screenshots
 
-> Add screenshots to a `/screenshots` folder and update the paths below.
+| Home | Search |
+| ---- | ------ |
+| ![Home](./screenshots/home.png) | ![Search](./screenshots/search.png) |
 
-| Home | Coin Details |
-| ---- | ------------ |
-| ![Home](./screenshots/home.png) | ![coint-details](./screenshots/coin.png) |
-
-| Login | Register |
-| ----- | -------- |
-| ![Login](./screenshots/login.png) | ![Register](./screenshots/register.png) |
+| Coin Details | Login |
+| ------------ | ----- |
+| ![Coin](./screenshots/coin.png) | ![Login](./screenshots/login.png) |
 
 ---
 
