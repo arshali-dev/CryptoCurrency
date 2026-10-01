@@ -58,7 +58,7 @@ The project demonstrates core front-end engineering concepts: component-based ar
 
 > Add screenshots to a `/screenshots` folder and update the paths below.
 
-| Home | Coin Details |
+| Home | coint-detailss |
 | ---- | ------------ |
 | ![Home](./screenshots/home.png) | ![Coin](./screenshots/coin.png) |
 
